@@ -1,0 +1,132 @@
+
+/* Class = "UILabel"; text = "Conference Audio Call"; ObjectID = "3Mx-MR-ZT3"; */
+"3Mx-MR-ZT3.text" = "Conference Audio Call";
+
+/* Class = "UILabel"; text = "BLOG"; ObjectID = "3Ym-fl-mKN"; */
+"3Ym-fl-mKN.text" = "BLOG";
+
+/* Class = "UILabel"; text = "Know more user experience"; ObjectID = "3fi-3x-0Xp"; */
+"3fi-3x-0Xp.text" = "Know more user experience";
+
+/* Class = "UIBarButtonItem"; title = "Menu"; ObjectID = "3gh-ed-0Ek"; */
+"3gh-ed-0Ek.title" = "Menu";
+
+/* Class = "UILabel"; text = "Guests are waiting to join the conference."; ObjectID = "3sK-uQ-3SM"; */
+"3sK-uQ-3SM.text" = "Guests are waiting to join the conference.";
+
+/* Class = "UIButton"; normalTitle = "CLEAR ALL"; ObjectID = "7dA-a4-aCt"; */
+"7dA-a4-aCt.normalTitle" = "CLEAR ALL";
+
+/* Class = "UINavigationItem"; title = "Second Controller"; ObjectID = "8VR-6H-mGr"; */
+"8VR-6H-mGr.title" = "Second Controller";
+
+/* Class = "UILabel"; text = "/location"; ObjectID = "8qK-sh-c5r"; */
+"8qK-sh-c5r.text" = "/location";
+
+/* Class = "UILabel"; text = "Recent /Calls"; ObjectID = "Afm-Yo-ORX"; */
+"Afm-Yo-ORX.text" = "Recent /Calls";
+
+/* Class = "UILabel"; text = "Know how to use MelpApp"; ObjectID = "BTj-xE-N2r"; */
+"BTj-xE-N2r.text" = "Know how to use MelpApp";
+
+/* Class = "UILabel"; text = "10:28  "; ObjectID = "DvR-mv-i1o"; */
+"DvR-mv-i1o.text" = "10:28  ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "FdI-l3-QbW"; */
+"FdI-l3-QbW.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GEY-1I-qf1"; */
+"GEY-1I-qf1.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "UPDATE"; ObjectID = "GK3-03-hlE"; */
+"GK3-03-hlE.normalTitle" = "UPDATE";
+
+/* Class = "UILabel"; text = "meeting"; ObjectID = "Gb5-JO-R3h"; */
+"Gb5-JO-R3h.text" = "meeting";
+
+/* Class = "UILabel"; text = "Message"; ObjectID = "HLl-ui-VCa"; */
+"HLl-ui-VCa.text" = "Message";
+
+/* Class = "UILabel"; text = "Call"; ObjectID = "IW9-fA-d2r"; */
+"IW9-fA-d2r.text" = "Call";
+
+/* Class = "UILabel"; text = "You have not enter a location, Please enter you location."; ObjectID = "LvJ-Md-lMo"; */
+"LvJ-Md-lMo.text" = "You have not enter a location, Please enter you location.";
+
+/* Class = "UIButton"; normalTitle = "<-"; ObjectID = "O8y-dN-bPO"; */
+"O8y-dN-bPO.normalTitle" = "<-";
+
+/* Class = "UILabel"; text = "would you like to  create a Team?"; ObjectID = "OyB-Ky-RBM"; */
+"OyB-Ky-RBM.text" = "would you like to  create a Team?";
+
+/* Class = "UILabel"; text = "Conference Video Call"; ObjectID = "QLP-3a-6n6"; */
+"QLP-3a-6n6.text" = "Conference Video Call";
+
+/* Class = "UILabel"; text = "Group/ Team Discussion"; ObjectID = "Rwz-uH-cfk"; */
+"Rwz-uH-cfk.text" = "Group/ Team Discussion";
+
+/* Class = "UILabel"; text = "MELPER  "; ObjectID = "U7P-O6-1vj"; */
+"U7P-O6-1vj.text" = "MELPER  ";
+
+/* Class = "UILabel"; text = "START CALL USING"; ObjectID = "WKV-aD-EsL"; */
+"WKV-aD-EsL.text" = "START CALL USING";
+
+/* Class = "UITextField"; placeholder = "Search name, mobile number or email"; ObjectID = "ZUC-is-QBm"; */
+"ZUC-is-QBm.placeholder" = "Search name, mobile number or email";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "acN-aH-Num"; */
+"acN-aH-Num.text" = "Label";
+
+/* Class = "UIViewController"; title = "jitsicall"; ObjectID = "arK-Zs-CMz"; */
+"arK-Zs-CMz.title" = "jitsicall";
+
+/* Class = "UITextField"; placeholder = "Search..."; ObjectID = "bAS-eX-SY5"; */
+"bAS-eX-SY5.placeholder" = "Search...";
+
+/* Class = "UILabel"; text = "ATTENDEES"; ObjectID = "bHK-tZ-scj"; */
+"bHK-tZ-scj.text" = "ATTENDEES";
+
+/* Class = "UIButton"; normalTitle = "Click here"; ObjectID = "bTw-Xw-gHo"; */
+"bTw-Xw-gHo.normalTitle" = "Click here";
+
+/* Class = "UILabel"; text = "START MEETING USING"; ObjectID = "c9y-YX-aBF"; */
+"c9y-YX-aBF.text" = "START MEETING USING";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cpk-fn-omV"; */
+"cpk-fn-omV.text" = "Label";
+
+/* Class = "UILabel"; text = "Guests are waiting to join the conference."; ObjectID = "f09-YZ-Nmr"; */
+"f09-YZ-Nmr.text" = "Guests are waiting to join the conference.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "g9C-o2-vZu"; */
+"g9C-o2-vZu.text" = "Label";
+
+/* Class = "UILabel"; text = "Teams"; ObjectID = "gWQ-57-VNI"; */
+"gWQ-57-VNI.text" = "Teams";
+
+/* Class = "UILabel"; text = "APP VERSION"; ObjectID = "k1H-6B-1Y8"; */
+"k1H-6B-1Y8.text" = "APP VERSION";
+
+/* Class = "UILabel"; text = "topic"; ObjectID = "ksH-uB-aKb"; */
+"ksH-uB-aKb.text" = "topic";
+
+/* Class = "UILabel"; text = "Conference Video Call"; ObjectID = "pei-U9-gRI"; */
+"pei-U9-gRI.text" = "Conference Video Call";
+
+/* Class = "UILabel"; text = "Reconnecting..."; ObjectID = "sME-lK-bkI"; */
+"sME-lK-bkI.text" = "Reconnecting...";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "vQp-Ha-ahv"; */
+"vQp-Ha-ahv.text" = "About";
+
+/* Class = "UILabel"; text = "No team found"; ObjectID = "vhL-ii-vHA"; */
+"vhL-ii-vHA.text" = "No team found";
+
+/* Class = "UILabel"; text = "Conference Audio Call"; ObjectID = "wWt-3i-BqK"; */
+"wWt-3i-BqK.text" = "Conference Audio Call";
+
+/* Class = "UIViewController"; title = "jitsicall"; ObjectID = "ygV-d3-S25"; */
+"ygV-d3-S25.title" = "jitsicall";
+
+/* Class = "UILabel"; text = "MELP GUIDE"; ObjectID = "zig-Rz-hjC"; */
+"zig-Rz-hjC.text" = "MELP GUIDE";
